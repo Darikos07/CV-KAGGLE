@@ -1,0 +1,7 @@
+ultralytics
+pandas
+numpy
+matplotlib
+Pillow
+torch
+scikit-learn
